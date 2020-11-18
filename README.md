@@ -41,9 +41,24 @@ many features
 * 	[Spring Boot](https://spring.io/projects/spring-boot) - Framework to ease the bootstrapping and development of new Spring Applications
 * 	[Maven](https://maven.apache.org/) - Dependency Management
 
+
+###  Libraries and Plugins
+
+* 	[Bootstrap ToC](https://afeld.github.io/bootstrap-toc/) - Table of Contents plugin for Bootstrap
+* 	[Thymeleaf With Dialect](https://github.com/Antibrumm/thymeleaf-extras-with-dialect) - A dialect for Thymeleaf that allows you to use attributes with a "with" prefix to avoid having long "th:with"-expressions.
+* 	[Thymeleaf Layout Dialect](https://github.com/ultraq/thymeleaf-layout-dialect) - A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse.
+* 	[Lombok](https://projectlombok.org/) - Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.
+* 	[Swagger](https://swagger.io/) - Open-Source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful Web services.
+
 ### Others 
 
 * 	[git](https://git-scm.com/) - Free and Open-Source distributed version control system
+
+### External Tools & Services
+
+* 	[Postman](https://www.getpostman.com/) - API Development Environment (Testing Docmentation)
+* 	[Postman Echo](https://docs.postman-echo.com/?version=latest) - A service that can be used to test your REST clients and make sample API calls. It provides endpoints for GET, POST, PUT, various auth mechanisms and other utility endpoints.
+* 	[gitignore.io](https://www.toptal.com/developers/gitignore/api/java,eclipse,intellij) - Create useful .gitignore files for your project.
 
 ### To-Do
 
