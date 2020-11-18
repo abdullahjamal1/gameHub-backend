@@ -153,7 +153,7 @@ for other controllers.
 
 ## EER Diagram
 
-![EER diagram]()
+![EER diagram](https://github.com/aj941ga/gameHub/blob/main/snapShots/game_hub_database_pic.PNG)
 
 ## Packages
 
