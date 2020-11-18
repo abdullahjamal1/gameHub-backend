@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout" layout:decorate="~{layout/sidebar}">
+<head>
+<title>HOME</title>
+</head>
+<body>
+    <div layout:fragment="content">
+        <h1>Welcome to Spring-starter</h1>
+        Index.html file, please your content here
+        
+        <div id="created" th:text="${#dates.format(date)}">May 11, 2015</div>
+    </div>
+</body>
+</html>
