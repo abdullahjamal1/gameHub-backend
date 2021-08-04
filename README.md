@@ -163,6 +163,7 @@ for other controllers.
  
 
 ## EER Diagram
+Note: leaderboard is not yet implemented. User table is to be normalized further with the roles table.
 ![EER diagram v2](https://github.com/aj941ga/gameHub-backend/blob/master/snapshots/game_hub_database_pic.PNG)
 
 ## Packages
